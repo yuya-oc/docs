@@ -107,8 +107,8 @@ Select what language Mattermost displays in the user interface. Options include:
 - English
 - Español - Spanish
 - Français - French
-- Nederlands - Dutch)
-- Português do Brasil - Portuguese
+- Nederlands - Dutch
+- Português (Brasil) - Portuguese
 - 中文 (简体) - Simplified Chinese
 - 中文 (繁體) - Traditional Chinese
 - 日本語 - Japanese
