@@ -61,6 +61,8 @@ Alpha
 -----------------
 - Translation has not yet reached Beta quality.
 
+An official language may be changed back to Beta or Alpha if the specified requirements are not met for a release. Similarly, Beta-quality language may be dropped back to Alpha.
+
 Test Translations
 ===================
 
